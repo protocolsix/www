@@ -1,0 +1,99 @@
+body {
+    font-size: 15px;
+}
+
+h1 {
+    margin: 0;
+    padding: 0;
+}
+
+.hero {
+    text-align: center;
+    margin: 40px 0;
+}
+
+h1,
+h3 {
+    font-weight: 400;
+}
+
+h3 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+}
+
+body,
+h2,
+h4 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+}
+
+h4 {
+    margin-bottom: 20px;
+}
+
+.container {
+    width: 700px;
+    margin: 80px auto;
+}
+
+.features {
+    padding: 20px 0;
+}
+
+.features div {
+    margin: 10px 0;
+}
+
+.btn {
+    background-color: #7e6aa5;
+    border: none;
+    margin-right: 12px;
+}
+
+.btn:hover,
+.btn:active,
+.btn:active:hover {
+    background-color: #67548E;
+}
+
+.btn .glyphicon {
+    margin-right: 6px;
+}
+
+a,
+a:hover {
+    color: #7e6aa5;
+}
+
+code {
+    padding: 6px 8px;
+    color: #67548E;
+    background-color: #F6F2F9;
+    margin-left: 6px;
+}
+
+.features .glyphicon {
+    margin: 0 12px;
+    position: absolute;
+    top: 4px;
+}
+
+.features p {
+    padding-left: 40px;
+    margin: 0;
+}
+
+.trade {
+    font-size: .5em;
+    vertical-align: super;
+}
+
+.nav-list {
+    line-height: 58px;
+}
+
+.nav-list li {
+    padding-right: 20px;
+}
